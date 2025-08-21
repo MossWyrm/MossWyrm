@@ -7,9 +7,9 @@ I create engaging gameplay systems, polished prototypes, and indie games that bl
 
 ## 🌟 Featured Projects
 
-- [Itch](https://img.shields.io/badge/Itch.io-FA5C5C?logo=itch&logoColor=white)[**Fortunes**](https://mosswyrm.itch.io/fortunes)  
+- **Fortunes**[https://img.shields.io/badge/itch.io-FA5C5C?logo=itchdotio&logoColor=white](https://mosswyrm.itch.io/fortunes)
   *Incremental Tarot-style card game built in Godot. Customize your deck, unlock the Major Arcana, and explore prestige systems.*  
-  [![Code](https://img.shields.io/badge/View_Code-GitHub-lightgrey?logo=github)](https://github.com/mosswyrm/fortunes)
+  [https://img.shields.io/badge/View_Code-GitHub-lightgrey?logo=github](https://github.com/mosswyrm/fortunes)
 
 - [**Texas Roll ’Em**](https://mosswyrm.itch.io/texas-roll-em)  
   *A roguelike dice-roller with waves, bosses, and pixel-art combat. Face the odds in a Wild West dungeon crawl.*  
