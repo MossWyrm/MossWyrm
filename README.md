@@ -7,17 +7,19 @@ I create engaging gameplay systems, polished prototypes, and indie games that bl
 
 ## 🌟 Featured Projects
 
-- [![Code](https://img.shields.io/badge/itch.io-FA5C5C?logo=itchdotio&logoColor=white)](https://mosswyrm.itch.io/fortunes)  **Fortunes**
+- **Fortunes**  
   *Incremental Tarot-style card game built in Godot. Customize your deck, unlock the Major Arcana, and explore prestige systems.*  
-  [https://img.shields.io/badge/View_Code-GitHub-lightgrey?logo=github](https://github.com/mosswyrm/fortunes)
+  [![Code](https://img.shields.io/badge/View_Code-GitHub-lightgrey?logo=github)](https://github.com/mosswyrm/fortunes) [![Itch](https://img.shields.io/badge/itch.io-FA5C5C?logo=itchdotio&logoColor=white)](https://mosswyrm.itch.io/fortunes)
 
-- [**Texas Roll ’Em**](https://mosswyrm.itch.io/texas-roll-em)  
+- **Texas Roll ’Em**  
   *A roguelike dice-roller with waves, bosses, and pixel-art combat. Face the odds in a Wild West dungeon crawl.*  
-  [![Code](https://img.shields.io/badge/View_Code-GitHub-lightgrey?logo=github)](https://github.com/mosswyrm/texas-roll-em)
+  [![Code](https://img.shields.io/badge/View_Code-GitHub-lightgrey?logo=github)](https://github.com/mosswyrm/texas-roll-em) [![Itch](https://img.shields.io/badge/itch.io-FA5C5C?logo=itchdotio&logoColor=white)](https://mosswyrm.itch.io/texas-roll-em)
+  
 
-- [**pherCi**](https://mosswyrm.itch.io/pherci)  
+- **pherCi**  
   *Narrative puzzle prototype made for Game Off 2024. Decode encrypted messages and uncover hidden wartime stories.*  
-  [![Code](https://img.shields.io/badge/View_Code-GitHub-lightgrey?logo=github)](https://github.com/mosswyrm/pherci)
+  [![Code](https://img.shields.io/badge/View_Code-GitHub-lightgrey?logo=github)](https://github.com/mosswyrm/pherci) [![Itch](https://img.shields.io/badge/itch.io-FA5C5C?logo=itchdotio&logoColor=white)](https://mosswyrm.itch.io/pherci)
+
 
 ---
 
