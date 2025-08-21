@@ -17,8 +17,8 @@ I create engaging gameplay systems, polished prototypes, and indie games that bl
   
 
 - **pherCi**  
-  *Narrative puzzle prototype made for Game Off 2024. Decode encrypted messages and uncover hidden wartime stories.*  
-  [![Code](https://img.shields.io/badge/View_Code-GitHub-lightgrey?logo=github)](https://github.com/mosswyrm/pherci) [![Itch](https://img.shields.io/badge/itch.io-FA5C5C?logo=itchdotio&logoColor=white)](https://mosswyrm.itch.io/pherci)
+  *Narrative puzzle prototype made for Game Off 2024. Decode encrypted messages and uncover hidden wartime stories.*  <!--[![Code](https://img.shields.io/badge/View_Code-GitHub-lightgrey?logo=github)](https://github.com/mosswyrm/pherci) -->
+   [![Itch](https://img.shields.io/badge/itch.io-FA5C5C?logo=itchdotio&logoColor=white)](https://mosswyrm.itch.io/pherci)
 
 
 ---
