@@ -7,7 +7,7 @@ I create engaging gameplay systems, polished prototypes, and indie games that bl
 
 ## 🌟 Featured Projects
 
-- **Fortunes** [![Code](https://img.shields.io/badge/itch.io-FA5C5C?logo=itchdotio&logoColor=white)](https://mosswyrm.itch.io/fortunes)
+- [![Code](https://img.shields.io/badge/itch.io-FA5C5C?logo=itchdotio&logoColor=white)](https://mosswyrm.itch.io/fortunes)  **Fortunes**
   *Incremental Tarot-style card game built in Godot. Customize your deck, unlock the Major Arcana, and explore prestige systems.*  
   [https://img.shields.io/badge/View_Code-GitHub-lightgrey?logo=github](https://github.com/mosswyrm/fortunes)
 
