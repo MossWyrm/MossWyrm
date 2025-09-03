@@ -1,31 +1,32 @@
 # 👋 Hi, I’m Robert Morecraft (aka Mosswyrm)
 
-🎮 **Unity & Godot Game Developer** based in the UK.  
-I create engaging gameplay systems, polished prototypes, and indie games that blend design with solid engineering.  
+🎮 **Unity & Godot Game Developer** based in the UK.<br><br>
+I create engaging gameplay systems, polished prototypes, and indie games that blend design with solid engineering.<br><br>
+Aside from freelance work, I’m currently working on a big system overhaul for my personal project, **Fortunes**.
 
 ---
 
 ## 🌟 Featured Projects
 
 - **Fortunes**  
-  *Incremental Tarot-style card game built in Godot. Customize your deck, unlock the Major Arcana, and explore prestige systems.*  
+  *Incremental Tarot-style card game built in Godot. Customize your deck, unlock the Major Arcana, and explore prestige systems.*<br>
   [![Code](https://img.shields.io/badge/View_Code-GitHub-lightgrey?logo=github)](https://github.com/mosswyrm/fortunes) [![Itch](https://img.shields.io/badge/itch.io-FA5C5C?logo=itchdotio&logoColor=white)](https://mosswyrm.itch.io/fortunes)
 
 - **Texas Roll ’Em**  
-  *A roguelike dice-roller with waves, bosses, and pixel-art combat. Face the odds in a Wild West dungeon crawl.*  
+  *A roguelike dice-roller with waves, bosses, and pixel-art combat. Face the odds in a Wild West dungeon crawl.*<br>
   [![Code](https://img.shields.io/badge/View_Code-GitHub-lightgrey?logo=github)](https://github.com/mosswyrm/texas-roll-em) [![Itch](https://img.shields.io/badge/itch.io-FA5C5C?logo=itchdotio&logoColor=white)](https://mosswyrm.itch.io/texas-roll-em)
   
 
 - **pherCi**  
-  *Narrative puzzle prototype made for Game Off 2024. Decode encrypted messages and uncover hidden wartime stories.*  <!--[![Code](https://img.shields.io/badge/View_Code-GitHub-lightgrey?logo=github)](https://github.com/mosswyrm/pherci) -->
-   [![Itch](https://img.shields.io/badge/itch.io-FA5C5C?logo=itchdotio&logoColor=white)](https://mosswyrm.itch.io/pherci)
+  *Narrative puzzle prototype made for Game Off 2024. Decode encrypted messages and uncover hidden wartime stories.*<br>  <!--[![Code](https://img.shields.io/badge/View_Code-GitHub-lightgrey?logo=github)](https://github.com/mosswyrm/pherci) -->
+  [![Itch](https://img.shields.io/badge/itch.io-FA5C5C?logo=itchdotio&logoColor=white)](https://mosswyrm.itch.io/pherci)
 
 
 ---
 
 ## 🛠 Skills & Tools
-![Unity](https://img.shields.io/badge/Unity-000000?logo=unity&logoColor=white)  
 ![Godot](https://img.shields.io/badge/Godot-478CBF?logo=godot-engine&logoColor=white)  
+![Unity](https://img.shields.io/badge/Unity-000000?logo=unity&logoColor=white)  
 ![C#](https://img.shields.io/badge/C%23-239120?logo=csharp&logoColor=white)  
 ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)  
 ![Game Design](https://img.shields.io/badge/Focus-Gameplay_Programming-blue)  
@@ -44,7 +45,6 @@ I create engaging gameplay systems, polished prototypes, and indie games that bl
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
